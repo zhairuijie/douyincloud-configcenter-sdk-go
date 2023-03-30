@@ -4,7 +4,7 @@
 ## 使用方法
 ### 获取与安装
 ```go
-go get github.com/bytedance/douyincloud-configcenter-sdk-go
+go get github.com/zhairuijie/douyincloud-configcenter-sdk-go
 ```
 ### 初始化客户端
 **方式一**：直接初始化

@@ -7,10 +7,10 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/bytedance/douyincloud-configcenter-sdk-go/cache"
-	error2 "github.com/bytedance/douyincloud-configcenter-sdk-go/error"
-	"github.com/bytedance/douyincloud-configcenter-sdk-go/http"
-	"github.com/bytedance/douyincloud-configcenter-sdk-go/openapi"
+	"github.com/zhairuijie/douyincloud-configcenter-sdk-go/cache"
+	error2 "github.com/zhairuijie/douyincloud-configcenter-sdk-go/error"
+	"github.com/zhairuijie/douyincloud-configcenter-sdk-go/http"
+	"github.com/zhairuijie/douyincloud-configcenter-sdk-go/openapi"
 )
 
 type Client interface {

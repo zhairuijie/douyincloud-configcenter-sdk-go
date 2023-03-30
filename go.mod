@@ -1,4 +1,4 @@
-module github.com/bytedance/douyincloud-configcenter-sdk-go
+module github.com/zhairuijie/douyincloud-configcenter-sdk-go
 
 go 1.18
 

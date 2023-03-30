@@ -3,13 +3,13 @@ package cache
 import (
 	"context"
 	"encoding/json"
-	"github.com/bytedance/douyincloud-configcenter-sdk-go/openapi"
+	"github.com/zhairuijie/douyincloud-configcenter-sdk-go/openapi"
 	"log"
 	"strconv"
 	"time"
 
-	error2 "github.com/bytedance/douyincloud-configcenter-sdk-go/error"
-	"github.com/bytedance/douyincloud-configcenter-sdk-go/http"
+	error2 "github.com/zhairuijie/douyincloud-configcenter-sdk-go/error"
+	"github.com/zhairuijie/douyincloud-configcenter-sdk-go/http"
 )
 
 type Ticker struct {
